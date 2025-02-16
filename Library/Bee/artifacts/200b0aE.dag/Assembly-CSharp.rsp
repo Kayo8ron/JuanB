@@ -377,11 +377,13 @@
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/Coin.cs"
 "Assets/Scripts/CoinSaver.cs"
+"Assets/Scripts/ExcelReader.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/ICollectable.cs"
 "Assets/Scripts/InputGeneric.cs"
 "Assets/Scripts/Item.cs"
 "Assets/Scripts/ItemScriptableObject.cs"
+"Assets/Scripts/NPC.cs"
 "Assets/Scripts/Orb.cs"
 "Assets/Scripts/OrbCollector.cs"
 "Assets/Scripts/PlayerLoader.cs"
@@ -389,9 +391,9 @@
 "Assets/Scripts/RotateScale.cs"
 "Assets/Scripts/Seller.cs"
 "Assets/Scripts/store.cs"
+"Assets/Scripts/VictoryFinished.cs"
 "Assets/Survivor Island/Scripts/FinishRotate.cs"
 "Assets/Survivor Island/Scripts/WaterBasic.cs"
-"Assets/VictoryFinished.cs"
 -langversion:9.0
 /deterministic
 /optimize+
